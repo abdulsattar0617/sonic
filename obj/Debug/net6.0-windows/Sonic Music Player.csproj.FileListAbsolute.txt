@@ -1,0 +1,31 @@
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\Sonic Music Player.exe
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\Sonic Music Player.deps.json
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\Sonic Music Player.runtimeconfig.json
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\Sonic Music Player.dll
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\Sonic Music Player.pdb
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.csproj.GenerateResource.cache
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.AssemblyInfoInputs.cache
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.AssemblyInfo.cs
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.dll
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\refint\Sonic Music Player.dll
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.pdb
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.genruntimeconfig.cache
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\ref\Sonic Music Player.dll
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic_Music_Player.DashboardForm.resources
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\NAudio.dll
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\NAudio.Asio.dll
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\NAudio.Core.dll
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\NAudio.Midi.dll
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.csproj.AssemblyReference.cache
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic Music Player.csproj.CopyComplete
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+E:\PROJECTS\Sonic Music Player\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic_Music_Player.Properties.Resources.resources
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic_Music_Player.CreatePlaylistForm.resources
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic_Music_Player.SongListForm.resources
+E:\PROJECTS\Sonic Music Player\obj\Debug\net6.0-windows\Sonic_Music_Player.EditPlaylistForm.resources
