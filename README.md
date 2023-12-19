@@ -31,9 +31,9 @@ Sonic is a feature-rich music player designed for Windows desktop. It provides a
 
 * **Clone** the repository to your local machine if you're a developer looking to modify the code.
 
-* **Windows [Installer](windows_installer/Sonic/Debug/Sonic.msi)**
-  Download the latest installer from the "windows_installer" directory of the repository.
-Run the installer and follow the on-screen instructions to install Sonic Music Player on your Windows desktop.
+* **Windows [Installer](windows_installer/Sonic/Sonic_app_setup.zip)**
+  Download the setup zip and find latest installer from the "Debug" directory of the unzipped folder.
+Run the "Sonic.msi" installer and follow the on-screen instructions to install Sonic Music Player on your Windows desktop.
 
 
 ## Usage
